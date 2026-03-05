@@ -1,0 +1,17 @@
+Este script crea las Unidades Organizativas (Carpetas) principales en el servidor LDAP
+
+Dominio base: dc=delta,dc=local (Oficinas Delta S.L.)
+
+1. Crear la Unidad Organizativa para los Usuarios
+
+dn: ou=People,dc=delta,dc=local
+objectClass: organizationalUnit
+ou: People
+description: Carpeta que contiene a todos los empleados de la empresa
+
+2. Crear la Unidad Organizativa para los Grupos (Departamentos)
+
+dn: ou=Groups,dc=delta,dc=local
+objectClass: organizationalUnit
+ou: Groups
+description: Carpeta que contiene los departamentos (RRHH, Contabilidad, etc.)
