@@ -21,4 +21,4 @@ Para garantizar el correcto funcionamiento del instalador y la futura carga de a
 4. Configuración y Preparación LDAP
 Se ha completado la instalación a través de la interfaz web (http://localhost/mediawiki), conectando la aplicación con su base de datos. El archivo de configuración resultante (LocalSettings.php) se ha movido al directorio raíz de la wiki de forma segura.
 
-Para la integración con el Directorio Activo, MediaWiki utiliza extensiones que se añaden directamente al archivo LocalSettings.php, lo que permitirá que los usuarios del servidor LIVA inicien sesión sin necesidad de crear cuentas locales nuevas.
+Para la integración con el Directorio Activo, MediaWiki utiliza extensiones que se añaden directamente al archivo LocalSettings.php, lo que permitirá que los usuarios del servidor LIVA inicien sesión sin necesidad de crear cuentas locales nuevas
