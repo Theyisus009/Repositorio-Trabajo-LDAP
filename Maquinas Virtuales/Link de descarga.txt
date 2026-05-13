@@ -1,2 +1,7 @@
-Estan en el Proxmox, pero x si acaso os dejo los discos por aquí:
+Estan en el Proxmox, pero los discos estan situados en un NAS de Synology, he habilitado unos enlaces que os voy a dejar para que podais descargar los discos:
 
+Disco Servidor_LDAP:
+https://gofile.me/5ZHr5/SvNBJgfVL
+
+Disco Cliente_LDAP:
+https://gofile.me/5ZHr5/e6Cheyaf7
