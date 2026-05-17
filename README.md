@@ -13,15 +13,11 @@ Jesús González Ruiz
 
 📂 Estructura del Repositorio
 
-La documentación se irá subiendo progresivamente siguiendo las fases del ciclo de vida del proyecto:
+La documentación se ha ido subiendo progresivamente siguiendo las fases del ciclo de vida del proyecto:
 
-Fase 1: Análisis del Contexto y Problemática.
+Pero teneis un documento final .docx subido en el que se muestra todo el desarrollo del proyecto.
 
-Fase 2: Diseño Técnico, Hardware y Vinculación Curricular.
-
-Fase 3: Metodología (Agile) y Planificación.
-
-Fase 4: Conclusiones y Valoración Personal.
+Y un PowerPoint para la exposición.
 
 🛠️ Stack Tecnológico
 
